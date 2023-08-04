@@ -1,16 +1,17 @@
-### Hello there ! 👋
+## Hi there ! 👋
 
-## Who am I ? 
-I worked in international freight forwarding for 10 years, and now I'm embarking on a new journey as a web developer. My passion lies in the MERN stack, and I am actively seeking job opportunities while dedicating time to personal projects.
+I'm Hafid I worked in international freight forwarding for 10 years, and now I'm embarking on a new journey as a web developer. I have a strong interest in the MERN stack, and I am actively seeking job opportunities while dedicating time to personal projects.
 
-## My projects
+# My projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### API Rest made with Node.js
+Packages & libraries : 
+
+- Express.js
+- Sequelize
+- MariaDB
+- JsonWebToken
+- Cors
+- Bcrypt
+
+**Repo** [here](https://github.com/Mangemort60/API-RESTFull-ToDoList)
