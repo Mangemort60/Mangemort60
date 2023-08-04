@@ -4,19 +4,17 @@ I'm Hafid I worked in international freight forwarding for 10 years, and now I'm
 
 # My projects
 
-### API Rest made with Node.js
+## API Rest  
+*Node.js*\
+\
 **Packages & libraries** :             Express.js | Sequelize | MariaDB | JsonWebToken | Bcrypt
 
 **Repo** [here](https://github.com/Mangemort60/API-RESTFull-ToDoList)
 
-### Multi-List To-Do App made with React.js & TypeScript
+## Multi-List To-Do App  
+*React.js & TypeScript*\
+\
 Packages & libraries : Vite | Chakra UI | React Hook | React Routes | Zod + React hookform |
-
-- Vite
-- React Hook
-- React Routes
-- Chakra UI
-- Zod + React hookform
 
 **Repo** [here](https://github.com/Mangemort60/TodoList-react-app)
 
