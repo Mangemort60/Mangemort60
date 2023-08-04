@@ -20,4 +20,4 @@ Packages & libraries : Vite | Chakra UI | React Hook | React Routes | Zod + Reac
 
 **Repo** [here](https://github.com/Mangemort60/TodoList-react-app)
 
-**Repo** [here](https://todo-react-app-otacon.netlify.app/login)
+**URL** [here](https://todo-react-app-otacon.netlify.app/login)
