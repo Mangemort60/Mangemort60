@@ -1,8 +1,8 @@
-## Hi there ! 👋
+# Hi there ! 👋
 
 I'm Hafid I worked in international freight forwarding for 10 years, and now I'm embarking on a new journey as a web developer. I have a strong interest in the MERN stack, and I am actively seeking job opportunities while dedicating time to personal projects.
 
-# My projects
+# Projects
 
 ## API Rest  
 *Node.js*\
