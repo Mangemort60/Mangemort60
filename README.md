@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello there ! 👋
 
-<!--
-**Mangemort60/Mangemort60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I ? 
+I worked in international freight forwarding for 10 years, and now I'm embarking on a new journey as a web developer. My passion lies in the MERN stack, and I am actively seeking job opportunities while dedicating time to personal projects.
 
-Here are some ideas to get you started:
+## My projects
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
