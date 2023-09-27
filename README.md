@@ -9,7 +9,7 @@ I'm Hafid I worked in international freight forwarding for 10 years, and now I'm
 \
 **Packages and libraries** : React | Node.js | Express.js | MongoDB | AWS S3 | JWT | Bcrypt | Mongoose
 
-**Répertoire** [ici](https://github.com/Mangemort60/mern-blog)
+**Repo** [ici](https://github.com/Mangemort60/mern-blog)
 
 **URL** [ici](lien-vers-votre-application)
 
@@ -20,7 +20,7 @@ This blog application was specifically designed for my client, a passionate neur
 \
 **Packages and libraries** : Node.js | Express.js | MongoDB | Mongoose | JWT | Bcrypt
 
-**Répertoire** [ici](https://github.com/Mangemort60/blog-api)
+**Repo** [ici](https://github.com/Mangemort60/blog-api)
 
 This API was developed in parallel with the blog application. It provides the necessary backend functionality for the application, including user, article, and comment management. You can review the source code of this API to see how it interacts with the frontend blog application.
 
