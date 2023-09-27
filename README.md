@@ -24,12 +24,6 @@ Cette application de blog est le fruit de mon apprentissage et de ma passion pou
 
 Cette API a été développée en parallèle avec l'application de blog. Elle fournit les fonctionnalités backend nécessaires à l'application, notamment la gestion des utilisateurs, des articles et des commentaires. Vous pouvez consulter le code source de cette API pour voir comment elle interagit avec l'application frontend du blog.
 
-## API Rest  
-*Node.js*\
-\
-**Packages & libraries** :             Express.js | Sequelize | MariaDB | JsonWebToken | Bcrypt
-
-**Repo** [here](https://github.com/Mangemort60/API-RESTFull-ToDoList)
 
 ## Multi-List To-Do App  
 *React.js & TypeScript*\
@@ -39,3 +33,10 @@ Packages & libraries : Vite | Chakra UI | React Hook | React Routes | Zod + Reac
 **Repo** [here](https://github.com/Mangemort60/TodoList-react-app)
 
 **URL** [here](https://todo-react-app-otacon.netlify.app/login)
+
+## API Rest  
+*Node.js*\
+\
+**Packages & libraries** :             Express.js | Sequelize | MariaDB | JsonWebToken | Bcrypt
+
+**Repo** [here](https://github.com/Mangemort60/API-RESTFull-ToDoList)
