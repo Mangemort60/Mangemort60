@@ -13,7 +13,7 @@ I'm Hafid I worked in international freight forwarding for 10 years, and now I'm
 
 **URL** [ici](lien-vers-votre-application)
 
-Cette application de blog a été conçue spécialement pour ma cliente, une neurothérapeute passionnée par son métier. Elle souhaitait un moyen de présenter sa profession, son offre de services, et créer un espace en ligne pour faciliter les échanges avec ses patients et les personnes intéressées. L'application inclut des fonctionnalités d'authentification utilisateur, la création et la modification d'articles via un éditeur convivial, l'ajout et la modification de commentaires, ainsi qu'une interface d'administration pour gérer le contenu. Explorez cette application pour découvrir le travail que j'ai réalisé pour aider ma cliente à atteindre ses objectifs.
+This blog application was specifically designed for my client, a passionate neurotherapist. She wanted a way to showcase her profession, her services, and create an online space to facilitate communication with her patients and interested individuals. The application includes user authentication features, article creation and editing using a user-friendly editor, the ability to add and edit comments, and an administrative interface to manage content. Explore this application to discover the work I've done to help my client achieve her goals.
 
 ## API du Blog
 *Node.js & Express.js*\
@@ -22,7 +22,7 @@ Cette application de blog a été conçue spécialement pour ma cliente, une neu
 
 **Répertoire** [ici](https://github.com/Mangemort60/blog-api)
 
-Cette API a été développée en parallèle avec l'application de blog. Elle fournit les fonctionnalités backend nécessaires à l'application, notamment la gestion des utilisateurs, des articles et des commentaires. Vous pouvez consulter le code source de cette API pour voir comment elle interagit avec l'application frontend du blog.
+This API was developed in parallel with the blog application. It provides the necessary backend functionality for the application, including user, article, and comment management. You can review the source code of this API to see how it interacts with the frontend blog application.
 
 
 ## Multi-List To-Do App  
