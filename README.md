@@ -5,7 +5,7 @@ I'm Hafid I worked in international freight forwarding for 10 years, and now I'm
 # Projects
 
 ## Blog App for a Neurotherapist
-*React.js & Node.js*\
+*React.js & TypeScript*\
 \
 **Packages and libraries** : React | Node.js | Express.js | MongoDB | AWS S3 | JWT | Bcrypt | Mongoose
 
