@@ -35,7 +35,7 @@ Packages & libraries : Vite | Chakra UI | React Hook | React Routes | Zod + Reac
 **URL** [here](https://todo-react-app-otacon.netlify.app/login)
 
 ## API Rest  
-*Node.js*\
+*Node.js Express.js*\
 \
 **Packages & libraries** :             Express.js | Sequelize | MariaDB | JsonWebToken | Bcrypt
 
