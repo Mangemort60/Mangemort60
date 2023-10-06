@@ -9,9 +9,9 @@ I'm Hafid I worked in international freight forwarding for 10 years, and now I'm
 \
 **Packages and libraries** : React | Node.js | Express.js | MongoDB | AWS S3 | JWT | Bcrypt | Mongoose
 
-**Repo** [ici](https://github.com/Mangemort60/mern-blog)
+**Repo** [here](https://github.com/Mangemort60/mern-blog)
 
-**URL** [ici](lien-vers-votre-application)
+**URL** [here](lien-vers-votre-application)
 
 This blog application was specifically designed for my client, a passionate neurotherapist. She wanted a way to showcase her profession, her services, and create an online space to facilitate communication with her patients and interested individuals. The application includes user authentication features, article creation and editing using a user-friendly editor, the ability to add and edit comments, and an administrative interface to manage content. Explore this application to discover the work I've done to help my client achieve her goals.
 
